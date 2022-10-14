@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "doABreakTracker", "doABreakTracker\doABreakTracker.njsproj", "{6EE942F3-7227-4190-B0E9-5313A7B1EA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE942F3-7227-4190-B0E9-5313A7B1EA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE942F3-7227-4190-B0E9-5313A7B1EA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE942F3-7227-4190-B0E9-5313A7B1EA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE942F3-7227-4190-B0E9-5313A7B1EA49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E1A2077-9966-4DE1-B5E3-F86D52D4F89D}
+	EndGlobalSection
+EndGlobal
