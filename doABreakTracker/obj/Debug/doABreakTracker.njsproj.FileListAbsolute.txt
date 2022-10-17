@@ -1,0 +1,3 @@
+C:\Users\msperanza\git\doABreak\doABreakTracker\obj\Debug\doABreakTracker.njsproj.AssemblyReference.cache
+C:\Users\msperanza\git\doABreak\doABreakTracker\obj\Debug\doABreakTracker.njsproj.CoreCompileInputs.cache
+C:\Users\msperanza\git\doABreak\doABreakTracker\bin\Microsoft.NodejsTools.WebRole.dll
